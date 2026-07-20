@@ -1,187 +1,248 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Tejas%20Butani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Full%20Stack%20Developer%20%7C%20Java%20Developer&descAlignY=58" />
+<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Enthusiast;Full+Stack+Developer;Java+%7C+DSA+%7C+LeetCode;Building+Secure+and+Scalable+Applications" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,30:0F2027,60:1a3a4a,100:2C5364&text=Tejas%20Butani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🔐%20Cybersecurity%20%7C%20☕%20Java%20Developer%20%7C%20🌐%20Full%20Stack&descSize=18&descAlignY=60&stroke=38BDF8&strokeWidth=2" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TejasButani001&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-  <img src="https://img.shields.io/github/followers/TejasButani001?style=for-the-badge&color=0077B5&logo=github"/>
-  <img src="https://img.shields.io/github/stars/TejasButani001?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=800&lines=Building+Secure+%26+Scalable+Applications+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Full+Stack+Developer+%7C+Java+%7C+DSA+%7C+LeetCode;Always+Learning+%E2%80%94+Always+Growing+%F0%9F%8C%B1" />
+
+<br/><br/>
+
+<!-- ═══════════════════ BADGES ═══════════════════ -->
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=TejasButani001&label=Profile+Views&style=for-the-badge&color=0D1117&labelColor=38BDF8&logo=eye"/>
+  &nbsp;
+  <a href="https://github.com/TejasButani001?tab=followers">
+    <img src="https://img.shields.io/github/followers/TejasButani001?style=for-the-badge&color=0D1117&labelColor=7C3AED&logo=github&logoColor=white&label=Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/TejasButani001?affiliations=OWNER&style=for-the-badge&color=0D1117&labelColor=F59E0B&logo=github&logoColor=white&label=Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-🟢%20Available-0D1117?style=for-the-badge&labelColor=16A34A"/>
 </p>
 
 </div>
 
 ---
 
-# ⚡ Quick Overview
+<br/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🎓 <b>Education</b>: B.Tech in Computer Engineering</li>
-        <li>🎯 <b>Goal</b>: Cybersecurity Engineer & Full Stack Developer</li>
-        <li>☕ <b>Primary Language</b>: Java & JavaScript / TypeScript</li>
-        <li>🔐 <b>Core Focus</b>: Application Security, DSA & Web Dev</li>
-        <li>💡 <b>Passion</b>: Secure Coding & Algorithmic Problem Solving</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🔭 Current Activities</h3>
-      <ul>
-        <li>💻 <b>Building</b>: Full Stack Luxury Platform (<i>Harikunj Jewels</i>)</li>
-        <li>🛡️ <b>Developing</b>: AI-Powered Secure File Sharing System</li>
-        <li>🧩 <b>Practicing</b>: Daily LeetCode Problem Solving in Java</li>
-        <li>📚 <b>Learning</b>: Linux System Hardening & Network Security</li>
-        <li>📫 <b>Contact</b>: <a href="mailto:tejasbutani1@gmail.com">tejasbutani1@gmail.com</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 🧠 Who Am I?
+
+```ts
+const tejas = {
+  name        : "Tejas Butani",
+  education   : "B.Tech — Computer Engineering",
+  role        : ["Cybersecurity Engineer", "Full Stack Developer", "Java Dev"],
+  languages   : ["Java", "TypeScript", "JavaScript", "Python", "C/C++"],
+  currentWork : ["Harikunj Jewels (Luxury E-Commerce)", "Secure File Sharing System"],
+  learning    : ["Network Security", "Linux Hardening", "Spring Boot", "CEH"],
+  funFact     : "I treat every vulnerability as a bug waiting to be patched 🛡️",
+  contact     : "tejasbutani1@gmail.com",
+};
+```
+
+<br/>
 
 ---
 
-# 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
-### 💻 Languages & Runtimes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp"/>
-</p>
+<div align="center">
 
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
-</p>
+| Layer | Technologies |
+|:---:|:---|
+| **Languages** | Java · Python · TypeScript · JavaScript · C · C++ |
+| **Frontend** | React · Next.js · Tailwind CSS · Bootstrap · HTML5 · CSS3 |
+| **Backend** | Node.js · Express.js · REST APIs |
+| **Database** | MongoDB · MySQL |
+| **Security** | RBAC · AES-256 · JWT · Audit Logs · Intrusion Detection |
+| **DevOps & OS** | Linux · Ubuntu · Bash · Docker · Git · GitHub |
+| **Tools** | VS Code · Postman · Figma |
 
-### ⚙️ Backend & Security
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java"/>
-</p>
+</div>
 
-### 🗄️ Database & Storage
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
+<br/>
 
-### 🔧 Tools, DevOps & OS
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,postman,figma,docker"/>
-</p>
+<div align="center">
 
----
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,c,cpp&perline=6"/>
 
-# 📚 Learning Roadmap & Mastery
+### 🌐 Frontend & Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,nodejs,express&perline=8"/>
 
-| Technology / Field | Progress Bar | Current Status | Target Goal |
-| :--- | :--- | :--- | :--- |
-| **Java & Core Concepts** | `█████████░` 90% | Advanced | System Architecture |
-| **Data Structures & Algorithms** | `████████░░` 80% | Advanced | Expert |
-| **LeetCode Solving** | `███████░░░` 70% | Active Solver | 500+ Solved Problems |
-| **Cybersecurity Fundamentals** | `██████░░░░` 60% | Intermediate | Certified Practitioner |
-| **Full Stack (React / Next.js)** | `████████░░` 80% | Proficient | Production Ready |
-| **Linux & Network Security** | `██████░░░░` 60% | Intermediate | SysAdmin / Network Analyst |
+### 🗄️ Data & Infra
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,linux,bash,git,github,vscode,postman,figma&perline=10"/>
+
+</div>
+
+<br/>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💎 <a href="https://github.com/TejasButani001/Harikunj-Jewels">Harikunj Jewels</a></h3>
-      <p>Luxury Jewellery E-Commerce Platform with responsive design, product management, and full-stack API integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/TejasButani001/Secure-File-Sharing-System">Secure File Sharing System</a></h3>
-      <p>AI-powered secure file sharing platform featuring role-based access control (RBAC), intrusion detection, and audit logging.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Security-RBAC-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Encryption-AES--256-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💎 [Harikunj Jewels](https://github.com/TejasButani001/Harikunj-Jewels)
+
+> **Luxury Jewellery E-Commerce Platform**
+
+A full-stack jewellery marketplace with a modern premium UI, product catalogue management, enquiry system, and a secure admin panel with role-based control.
+
+**Highlights:**
+- 🛍️ Product catalogue & gallery management
+- 🔐 Secure admin dashboard with RBAC
+- 📊 Real-time enquiry tracking
+- 📱 Fully responsive design
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Secure File Sharing](https://github.com/TejasButani001/Secure-File-Sharing-System)
+
+> **AI-Powered Security Platform**
+
+Enterprise-grade file sharing system with intrusion detection, end-to-end encryption, and a comprehensive audit trail for all user activity.
+
+**Highlights:**
+- 🔑 JWT Auth + Role-Based Access Control
+- 🛡️ AES-256 encryption on all transfers
+- 📁 Secure upload & download workflows
+- 📊 Admin dashboard & real-time audit logs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AES--256-Encryption-16A34A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RBAC-Security-7C3AED?style=flat-square"/>
+</p>
+
+</td>
+</tr>
 </table>
 
----
+</div>
 
-# 📊 GitHub & Coding Performance
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TejasButani001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TejasButani001&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TejasButani001&theme=tokyonight&hide_border=true"/>
-</p>
-
-### 🧩 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/TejasButani001?theme=dark&font=Poppins" alt="LeetCode Stats" height="180"/>
-</p>
+<br/>
 
 ---
 
-# 📈 Activity & Achievements
+## 📊 GitHub Analytics
 
-### 🗓️ Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasButani001&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TejasButani001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CDD6F4&ring_color=7C3AED"/>
+&nbsp;
+<img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TejasButani001&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&bg_color=0D1117&title_color=38BDF8&text_color=CDD6F4&langs_count=8"/>
 
-# 🎯 2026 Milestone Goals
+<br/><br/>
 
-* 🧩 Solve **500+ LeetCode Problems** in Java
-* ☕ Deepen mastery in **Java Backend & Spring Framework**
-* 🛡️ Obtain key **Cybersecurity Certifications** (e.g., Security+ / CEH)
-* 🌐 Active contributions to **Open Source Repositories**
-* 🚀 Launch **10+ Production-Grade Projects**
-* 💼 Secure a **Cybersecurity Internship / Role**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasButani001&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=7C3AED&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=CDD6F4"/>
+
+</div>
+
+<br/>
 
 ---
 
-# 🌐 Connect With Me
+## 🧩 LeetCode Performance
 
-<p align="center">
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/TejasButani001?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasButani001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=7C3AED&point=F59E0B&area=true&area_color=38BDF8"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 2026 Roadmap
+
+<div align="center">
+
+| Goal | Status | Target |
+|:---|:---:|:---|
+| 🧩 Solve 500+ LeetCode Problems | 🔄 In Progress | Q4 2026 |
+| ☕ Master Java & Spring Framework | 🔄 In Progress | Q3 2026 |
+| 🛡️ CEH / CompTIA Security+ Certification | 📋 Planned | Q4 2026 |
+| 🌐 Open Source Contributions (10+ PRs) | 📋 Planned | Q4 2026 |
+| 🚀 Launch 10+ Production Projects | 🔄 In Progress | Q4 2026 |
+| 💼 Secure Cybersecurity Internship | 🎯 Priority | Q3 2026 |
+| 🎓 Placement Ready | 🎯 Priority | Q4 2026 |
+
+</div>
+
+<br/>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<p>
   <a href="https://linkedin.com/in/tejasbutani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:tejasbutani1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/TejasButani001" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://tejasbutani.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
+<br/>
+
+> 💬 **"Security isn't a product, it's a process."** — *Bruce Schneier*
+
+<br/>
+
 ---
 
-# 💬 Security Motto
-
-> **"Security isn't a product, it's a process."** — Bruce Schneier
-
----
-
-<div align="center">
-
-### ⭐ Thank you for visiting my profile!
+*⭐ If you find my work interesting, feel free to star a repo or drop a message!*
 
 *"Every commit is a step toward becoming a better engineer."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:2C5364,50:203A43,100:0D1117"/>
 
 </div>
