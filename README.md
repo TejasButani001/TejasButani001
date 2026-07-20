@@ -14,111 +14,106 @@
 
 ---
 
-# 👨‍💻 About Me
+# ⚡ Quick Overview
 
-```yaml
-Name: Tejas Butani
-
-Education:
-  - B.Tech in Computer Engineering
-
-Career Goal:
-  - Cybersecurity Engineer
-
-Current Focus:
-  - Java
-  - Data Structures & Algorithms
-  - LeetCode
-  - Full Stack Development
-  - Cybersecurity
-
-Passion:
-  - Building secure applications
-  - Solving coding challenges
-  - Learning modern technologies
-```
-
----
-
-# 🚀 What I'm Working On
-
-🔐 **Cybersecurity**: Deep diving into network security, ethical hacking, & web security fundamentals.
-
-☕ **Java & DSA**: Solving LeetCode problems daily to master algorithmic thinking.
-
-🌐 **Full Stack Applications**: Designing secure, high-performance web applications.
-
-🛡️ **Linux & Networking**: Exploring server administration, system hardening, and protocol analysis.
-
-💡 **Secure Software Development**: Implementing RBAC, end-to-end encryption, and audit logs.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 <b>Education</b>: B.Tech in Computer Engineering</li>
+        <li>🎯 <b>Goal</b>: Cybersecurity Engineer & Full Stack Developer</li>
+        <li>☕ <b>Primary Language</b>: Java & JavaScript / TypeScript</li>
+        <li>🔐 <b>Core Focus</b>: Application Security, DSA & Web Dev</li>
+        <li>💡 <b>Passion</b>: Secure Coding & Algorithmic Problem Solving</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔭 Current Activities</h3>
+      <ul>
+        <li>💻 <b>Building</b>: Full Stack Luxury Platform (<i>Harikunj Jewels</i>)</li>
+        <li>🛡️ <b>Developing</b>: AI-Powered Secure File Sharing System</li>
+        <li>🧩 <b>Practicing</b>: Daily LeetCode Problem Solving in Java</li>
+        <li>📚 <b>Learning</b>: Linux System Hardening & Network Security</li>
+        <li>📫 <b>Contact</b>: <a href="mailto:tejasbutani1@gmail.com">tejasbutani1@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 🛠️ Tech Arsenal
 
-### 💻 Languages
+### 💻 Languages & Runtimes
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp"/>
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Security
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & Storage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools, DevOps & OS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,postman,figma,docker"/>
 </p>
 
 ---
 
-# 📚 Learning Roadmap
+# 📚 Learning Roadmap & Mastery
 
-| Technology    | Progress   | Target Level |
-| ------------- | ---------- | ------------ |
-| Java          | █████████░ | Advanced     |
-| DSA           | ████████░░ | Advanced     |
-| LeetCode      | ███████░░░ | 500+ Solved  |
-| Cybersecurity | ██████░░░░ | Practitioner |
-| React         | ████████░░ | Proficient   |
-| Next.js       | ███████░░░ | Proficient   |
-| Linux         | ██████░░░░ | SysAdmin     |
-| Networking    | █████░░░░░ | CCNA Level   |
+| Technology / Field | Progress Bar | Current Status | Target Goal |
+| :--- | :--- | :--- | :--- |
+| **Java & Core Concepts** | `█████████░` 90% | Advanced | System Architecture |
+| **Data Structures & Algorithms** | `████████░░` 80% | Advanced | Expert |
+| **LeetCode Solving** | `███████░░░` 70% | Active Solver | 500+ Solved Problems |
+| **Cybersecurity Fundamentals** | `██████░░░░` 60% | Intermediate | Certified Practitioner |
+| **Full Stack (React / Next.js)** | `████████░░` 80% | Proficient | Production Ready |
+| **Linux & Network Security** | `██████░░░░` 60% | Intermediate | SysAdmin / Network Analyst |
 
 ---
 
 # 🚀 Featured Projects
 
-### 💎 [Harikunj Jewels](https://github.com/TejasButani001/Harikunj-Jewels)
-> Luxury Jewellery Website featuring modern UI design, product catalogue, full-stack integration, and secure admin control.
-
-**Tech Stack**: `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js` · `MongoDB`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💎 <a href="https://github.com/TejasButani001/Harikunj-Jewels">Harikunj Jewels</a></h3>
+      <p>Luxury Jewellery E-Commerce Platform with responsive design, product management, and full-stack API integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/TejasButani001/Secure-File-Sharing-System">Secure File Sharing System</a></h3>
+      <p>AI-powered secure file sharing platform featuring role-based access control (RBAC), intrusion detection, and audit logging.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Security-RBAC-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Encryption-AES--256-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔐 [Secure File Sharing System](https://github.com/TejasButani001/Secure-File-Sharing-System)
-> AI-powered secure file sharing platform with real-time intrusion detection and robust security protocols.
-
-**Key Features**:
-* 🔑 Authentication & Role-Based Access Control (RBAC)
-* 🛡️ End-to-End Encryption & Secure Transfer
-* 📁 Encrypted Upload & Download Workflows
-* 📊 Real-time Audit Logs & Security Admin Dashboard
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub & Coding Performance
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=TejasButani001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -129,33 +124,35 @@ Passion:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasButani001&theme=tokyonight&hide_border=true"/>
 </p>
 
+### 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/TejasButani001" alt="LeetCode Stats" height="180"/>
+</p>
+
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity & Achievements
 
+### 🏆 Profile Badges & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TejasButani001&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+### 🗓️ Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasButani001&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🎯 2026 Milestone Goals
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejasButani001&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* 🧩 Solve **500+ LeetCode Problems**
-* ☕ Master **Java & Advanced Data Structures**
-* 🛡️ Earn **Cybersecurity Certifications**
-* 🌐 Contribute actively to **Open Source**
-* 🚀 Build **10+ High-Impact Real-World Projects**
-* 💼 Secure a **Cybersecurity Internship**
-* 🎯 Become completely **Placement Ready**
+* 🧩 Solve **500+ LeetCode Problems** in Java
+* ☕ Deepen mastery in **Java Backend & Spring Framework**
+* 🛡️ Obtain key **Cybersecurity Certifications** (e.g., Security+ / CEH)
+* 🌐 Active contributions to **Open Source Repositories**
+* 🚀 Launch **10+ Production-Grade Projects**
+* 💼 Secure a **Cybersecurity Internship / Role**
 
 ---
 
@@ -178,7 +175,7 @@ Passion:
 
 ---
 
-# 💬 Favorite Quote
+# 💬 Security Motto
 
 > **"Security isn't a product, it's a process."** — Bruce Schneier
 
