@@ -116,27 +116,22 @@
 # 📊 GitHub & Coding Performance
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TejasButani001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasButani001&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TejasButani001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TejasButani001&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasButani001&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=TejasButani001&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/TejasButani001" alt="LeetCode Stats" height="180"/>
+  <img src="https://leetcard.jacoblin.cool/TejasButani001?theme=dark&font=Poppins" alt="LeetCode Stats" height="180"/>
 </p>
 
 ---
 
 # 📈 Activity & Achievements
-
-### 🏆 Profile Badges & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejasButani001&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-</p>
 
 ### 🗓️ Contribution Graph
 <p align="center">
