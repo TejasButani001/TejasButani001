@@ -4,14 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Enthusiast;Full+Stack+Developer;Java+%7C+DSA+%7C+LeetCode;Building+Secure+and+Scalable+Applications" />
 
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TejasButani001&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/TejasButani001?style=for-the-badge&color=0077B5&logo=github"/>
+  <img src="https://img.shields.io/github/stars/TejasButani001?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github"/>
 </p>
 
 </div>
@@ -46,125 +42,91 @@ Passion:
 
 # 🚀 What I'm Working On
 
-🔐 Learning Cybersecurity
+🔐 **Cybersecurity**: Deep diving into network security, ethical hacking, & web security fundamentals.
 
-☕ Solving LeetCode using Java
+☕ **Java & DSA**: Solving LeetCode problems daily to master algorithmic thinking.
 
-🌐 Building Full Stack Applications
+🌐 **Full Stack Applications**: Designing secure, high-performance web applications.
 
-🛡️ Learning Linux & Networking
+🛡️ **Linux & Networking**: Exploring server administration, system hardening, and protocol analysis.
 
-📚 Improving DSA Skills
-
-💡 Exploring Secure Software Development
+💡 **Secure Software Development**: Implementing RBAC, end-to-end encryption, and audit logs.
 
 ---
 
 # 🛠️ Tech Arsenal
 
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp"/>
-
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp"/>
 </p>
 
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
-
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 </p>
 
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma"/>
-
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma"/>
 </p>
 
 ---
 
 # 📚 Learning Roadmap
 
-| Technology    | Progress   |
-| ------------- | ---------- |
-| Java          | █████████░ |
-| DSA           | ████████░░ |
-| LeetCode      | ███████░░░ |
-| Cybersecurity | ██████░░░░ |
-| React         | ████████░░ |
-| Next.js       | ███████░░░ |
-| Linux         | ██████░░░░ |
-| Networking    | █████░░░░░ |
+| Technology    | Progress   | Target Level |
+| ------------- | ---------- | ------------ |
+| Java          | █████████░ | Advanced     |
+| DSA           | ████████░░ | Advanced     |
+| LeetCode      | ███████░░░ | 500+ Solved  |
+| Cybersecurity | ██████░░░░ | Practitioner |
+| React         | ████████░░ | Proficient   |
+| Next.js       | ███████░░░ | Proficient   |
+| Linux         | ██████░░░░ | SysAdmin     |
+| Networking    | █████░░░░░ | CCNA Level   |
 
 ---
 
 # 🚀 Featured Projects
 
-## 💎 Harikunj Jewels
+### 💎 [Harikunj Jewels](https://github.com/TejasButani001/Harikunj-Jewels)
+> Luxury Jewellery Website featuring modern UI design, product catalogue, full-stack integration, and secure admin control.
 
-Luxury Jewellery Website
-
-**Tech Stack**
-
-* Next.js
-* TypeScript
-* Tailwind CSS
-* Node.js
-* MongoDB
+**Tech Stack**: `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js` · `MongoDB`
 
 ---
 
-## 🔐 Secure File Sharing System
+### 🔐 [Secure File Sharing System](https://github.com/TejasButani001/Secure-File-Sharing-System)
+> AI-powered secure file sharing platform with real-time intrusion detection and robust security protocols.
 
-AI-powered secure file sharing platform with intrusion detection.
-
-### Features
-
-* Authentication
-* Role-Based Access Control
-* Encryption
-* Secure Upload
-* Secure Download
-* Audit Logs
-* Admin Dashboard
+**Key Features**:
+* 🔑 Authentication & Role-Based Access Control (RBAC)
+* 🛡️ End-to-End Encryption & Secure Transfer
+* 📁 Encrypted Upload & Download Workflows
+* 📊 Real-time Audit Logs & Security Admin Dashboard
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TejasButani001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasButani001&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasButani001&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -172,9 +134,7 @@ AI-powered secure file sharing platform with intrusion detection.
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasButani001&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -182,45 +142,38 @@ AI-powered secure file sharing platform with intrusion detection.
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=TejasButani001&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-* Solve **500+ LeetCode Problems**
-* Master **Java & DSA**
-* Earn Cybersecurity Certifications
-* Contribute to Open Source
-* Build 10+ Real-World Projects
-* Secure a Cybersecurity Internship
-* Become Placement Ready
+* 🧩 Solve **500+ LeetCode Problems**
+* ☕ Master **Java & Advanced Data Structures**
+* 🛡️ Earn **Cybersecurity Certifications**
+* 🌐 Contribute actively to **Open Source**
+* 🚀 Build **10+ High-Impact Real-World Projects**
+* 💼 Secure a **Cybersecurity Internship**
+* 🎯 Become completely **Placement Ready**
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="https://linkedin.com/in/tejasbutani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tejasbutani1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/TejasButani001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://tejasbutani.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
